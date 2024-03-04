@@ -1,5 +1,5 @@
 # Academic-Management-System
-This repo contains the code for CS-346 Software Engineering Lab Assignment submission of Group 10 A.
+This repo contains the code for CS-346 Software Engineering Lab Assignment 2 submission of Group 10 A.
 
 ## Problem Statement
 Develop a Software that manages various academic section activities of the institute.The system must caters to the requirements of different users Dean, Registrar,Faculty, Students, Administrators and Officials for performing their assigned tasks. It should allow the
@@ -12,6 +12,9 @@ include are:
 Management (also include time table generation)
 - Examination Management (e.g. sitting planning,
 grade generation, etc.).
+
+## Description 
+A Microsoft Visual C++ application built on Visual Studio Ultimate 2013 version.
 
 ## Contributors
 - 210101113 [Yash Raj Singh](https://github.com/Yash-jar)
